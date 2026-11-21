@@ -5,25 +5,16 @@
 
 <br/>
 
-<a href="https://developer.android.com/">
-<img src="https://flat.badgen.net/badge/Android/16/1E56A0?labelColor=1B3A5C&icon=android" />
-</a>
-<a href="https://kotlinlang.org/">
-<img src="https://flat.badgen.net/badge/Kotlin/2.2.10/526780?labelColor=1B3A5C&icon=kotlin" />
-</a>
-<a href="https://developer.android.com/compose">
-<img src="https://flat.badgen.net/badge/Jetpack%20Compose/UI/6750A4?labelColor=1B3A5C&icon=jetpackcompose" />
-</a>
-<a href="https://m3.material.io/">
-<img src="https://flat.badgen.net/badge/Material%203/Expressive/8AB4F8?labelColor=1B3A5C" />
-</a>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" height="30">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg" height="30">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg" height="30">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="30">
 
 <br/>
 
-<a href="https://github.com/Lowestm3e/Somnia">
-<img src="https://flat.badgen.net/badge/version/0.1.12.1/D3E3FD?labelColor=1B3A5C" />
-</a>
-<img src="https://flat.badgen.net/badge/status/in%20development/526780?labelColor=1B3A5C" />
+**A sleep-tracking app for Android.**
+
+[Repository](https://github.com/Lowestm3e/Somnia)
 
 </div>
 
@@ -31,33 +22,31 @@
 
 ## About
 
-SOMNIA is a sleep-tracking app for Android, built with Kotlin and Jetpack Compose.
+SOMNIA is an Android app I'm building with Kotlin and Jetpack Compose.
 
-The project uses Material 3 Expressive and a custom Deep Blue theme. I'm building it with a focus on sleep logging, sleep history and useful insights.
+It focuses on sleep tracking, sleep history and weekly insights, with an interface built around Material 3 Expressive.
 
 ## Screens
 
-| Screen | Purpose |
-|---|---|
-| Sleep | Start and stop sleep sessions |
-| Insights | View sleep history and statistics |
-| Settings | Change app preferences |
-| About | App information and credits |
+| Sleep | Insights | Settings |
+|---|---|---|
+| Sleep session tracking | Sleep statistics | App preferences |
 
 ## Features
 
-- Sleep session tracking
-- Sleep history stored locally
-- Sleep statistics and charts
+- Start and stop sleep sessions
+- Save sleep records locally
+- View sleep history
+- Sleep duration charts
 - Light and dark themes
-- Optional AMOLED mode
-- Customisable sleep settings
+- AMOLED mode
+- Personalised sleep settings
 
-*Some features are still being developed.*
+> SOMNIA is still in development. Features and screens may change.
 
 ## Design
 
-SOMNIA uses a Deep Blue colour scheme.
+The app uses a Deep Blue colour palette.
 
 | Colour | Hex |
 |---|---|
@@ -68,32 +57,31 @@ SOMNIA uses a Deep Blue colour scheme.
 | Dark background | `#0D131D` |
 | Dark surface | `#161F2E` |
 
-The interface uses Material 3 Expressive components, rounded typography and Material Symbols.
+The interface uses Material 3 Expressive, Google Sans Flex Rounded and Material Symbols.
 
 ## Built with
 
 - Kotlin
 - Jetpack Compose
 - Material 3 Expressive
-- Room
-- Kotlin Coroutines
-- Flow
+- Room Database
+- Kotlin Coroutines and Flow
 - Navigation Compose
 - KSP
 
 ## Project details
 
-| | |
+| Property | Value |
 |---|---|
-| Name | SOMNIA |
+| App | SOMNIA |
 | Developer | Lowestm3e |
 | Package | `com.lowestm3e.somnia` |
 | Version | `0.1.12.1` |
-| Minimum Android SDK | 31 |
+| Minimum SDK | 31 |
 | Compile SDK | 37 |
 | Target SDK | 37 |
 
-## Building
+## Build
 
 Clone the repository:
 
@@ -101,15 +89,15 @@ Clone the repository:
 git clone https://github.com/Lowestm3e/Somnia.git
 ```
 
-Open the project in Android Studio and let Gradle sync.
+Open the project in Android Studio and allow Gradle to sync.
 
-To build a debug APK on Windows:
+Build a debug APK on Windows:
 
 ```powershell
 .\gradlew assembleDebug
 ```
 
-The APK will be generated at:
+The APK will be in:
 
 ```text
 app/build/outputs/apk/debug/app-debug.apk
@@ -117,9 +105,9 @@ app/build/outputs/apk/debug/app-debug.apk
 
 ## Development
 
-SOMNIA is a personal development project and is still a work in progress.
+I'm currently working on the sleep logging system, database integration and the remaining app screens.
 
-Current work includes improving sleep tracking, connecting the screens to the local database and refining the interface.
+More updates will be added as development continues.
 
 ---
 
@@ -127,6 +115,6 @@ Current work includes improving sleep tracking, connecting the screens to the lo
 
 **SOMNIA**
 
-[GitHub repository](https://github.com/Lowestm3e/Somnia)
+[Lowestm3e](https://github.com/Lowestm3e)
 
 </div>
