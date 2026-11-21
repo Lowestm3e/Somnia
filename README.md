@@ -7,11 +7,17 @@
 
 A modern Android sleep-tracking application built with Kotlin, Jetpack Compose and Material 3 Expressive.
 
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
-[![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/compose)
-[![Design](https://img.shields.io/badge/Design-Material%203%20Expressive-6750A4)](https://m3.material.io/)
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange)]()
+
+<div align="center">
+
+[![Android](https://img.shields.io/badge/Android-0D131D?style=flat-square&logo=android&logoColor=8AB4F8)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0D131D?style=flat-square&logo=kotlin&logoColor=AB8BFF)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0D131D?style=flat-square&logo=jetpackcompose&logoColor=8AB4F8)](https://developer.android.com/compose)
+[![Material 3 Expressive](https://img.shields.io/badge/Material_3_Expressive-0D131D?style=flat-square&logo=materialdesign&logoColor=D3E3FD)](https://m3.material.io/)
+[![Status](https://img.shields.io/badge/Development-In_Progress-1B3A5C?style=flat-square)]()
+
+</div>
+
 
 </div>
 
