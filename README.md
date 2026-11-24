@@ -1,113 +1,94 @@
-
 <div align="center">
 
-<img src="https://mark.sylphx.com/api/v1/mark/hero?type=aurora&theme=ocean&text=SOMNIA&desc=Sleep%2C%20made%20simpler." width="100%" />
+<img src="./overview.svg" width="100%" alt="Somnia Overview" />
+
+# SOMNIA
+
+**A calmer way to understand your sleep.**
+
+<img src="./m3e small.svg" alt="Material 3 Expressive" />
+<img src="./android 12.svg" alt="Android 12+" />
 
 <br/>
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" height="30">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg" height="30">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg" height="30">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="30">
-
-<br/>
-
-**A sleep-tracking app for Android.**
-
-[Repository](https://github.com/Lowestm3e/Somnia)
+<img src="./latest download.svg" alt="Latest Download" />
+<img src="./sourcecode.svg" alt="Source Code" />
+<img src="./likes.svg" alt="Likes" />
 
 </div>
 
 ---
 
-## About
+## ✦ About Somnia
 
-SOMNIA is an Android app I'm building with Kotlin and Jetpack Compose.
+Somnia is an Android sleep-tracking project built with Kotlin and Jetpack Compose.
 
-It focuses on sleep tracking, sleep history and weekly insights, with an interface built around Material 3 Expressive.
-
-## Screens
-
-| Sleep | Insights | Settings |
-|---|---|---|
-| Sleep session tracking | Sleep statistics | App preferences |
+Designed around Material 3 Expressive, Somnia brings together a modern Android interface, thoughtful interactions and a clean visual identity.
 
 ## Features
 
-- Start and stop sleep sessions
-- Save sleep records locally
-- View sleep history
-- Sleep duration charts
-- Light and dark themes
-- AMOLED mode
-- Personalised sleep settings
+<div align="center">
+<img src="./features.svg" width="100%" alt="Features" />
+</div>
 
-> SOMNIA is still in development. Features and screens may change.
+Somnia is being developed as a place to bring sleep-related tools and information together. Features will continue to evolve as development progresses.
 
 ## Design
 
-The app uses a Deep Blue colour palette.
+<div align="center">
+<img src="./design.svg" width="100%" alt="Design" />
+</div>
 
-| Colour | Hex |
-|---|---|
-| Primary | `#1E56A0` |
-| Primary dark | `#8AB4F8` |
-| Primary container | `#D3E3FD` |
-| Dark primary container | `#1B3A5C` |
-| Dark background | `#0D131D` |
-| Dark surface | `#161F2E` |
+Somnia follows a distinct Android-inspired design direction:
 
-The interface uses Material 3 Expressive, Google Sans Flex Rounded and Material Symbols.
+- Material 3 Expressive components
+- Deep-blue colour palette
+- Google Sans Flex Rounded typography
+- Material Symbols Rounded icons
+- Floating pill navigation
+- Dark surfaces and carefully considered spacing
 
-## Built with
+## Screenshots
 
-- Kotlin
-- Jetpack Compose
-- Material 3 Expressive
-- Room Database
-- Kotlin Coroutines and Flow
-- Navigation Compose
-- KSP
+<div align="center">
+<img src="./screenshots.svg" width="100%" alt="Screenshots" />
+</div>
 
-## Project details
+## Source Code
 
-| Property | Value |
-|---|---|
-| App | SOMNIA |
-| Developer | Lowestm3e |
-| Package | `com.lowestm3e.somnia` |
-| Version | `0.1.12.1` |
-| Minimum SDK | 31 |
-| Compile SDK | 37 |
-| Target SDK | 37 |
+<div align="center">
+<img src="./sourcecode.svg" alt="Source Code" />
+</div>
 
-## Build
+Explore the repository to follow development, inspect the source code and see how Somnia is built.
 
-Clone the repository:
+## Credits
 
-```bash
-git clone https://github.com/Lowestm3e/Somnia.git
-```
+<div align="center">
+<img src="./credits.svg" width="100%" alt="Credits" />
+</div>
 
-Open the project in Android Studio and allow Gradle to sync.
+Thanks to everyone whose tools, libraries and contributions help make Somnia possible.
 
-Build a debug APK on Windows:
+## Made with
 
-```powershell
-.\gradlew assembleDebug
-```
+<div align="center">
 
-The APK will be in:
+<img src="./credits.svg" width="100%" alt="Credits" />
 
-```text
-app/build/outputs/apk/debug/app-debug.apk
-```
+**ChatGPT + Claude**
 
-## Development
+Somnia's development has been supported by ChatGPT and Claude, helping with coding, debugging, planning and documentation.
 
-I'm currently working on the sleep logging system, database integration and the remaining app screens.
+</div>
 
-More updates will be added as development continues.
+## Free to Edit
+
+<div align="center">
+<img src="./freetoedit.svg" alt="Free to Edit" />
+</div>
+
+Feel free to explore and modify the project in accordance with its licence. Please check the repository licence before redistributing your changes.
 
 ---
 
@@ -115,6 +96,6 @@ More updates will be added as development continues.
 
 **SOMNIA**
 
-[Lowestm3e](https://github.com/Lowestm3e)
+*Sleep, made simpler.*
 
 </div>
