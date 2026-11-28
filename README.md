@@ -1,144 +1,76 @@
 
-<div align="center">
+# Somnia
 
-<img src="./overview.svg" width="100%" alt="Somnia" />
+**Sleep better. Wake up feeling more like yourself.**
 
-# SOMNIA
-
-**Sleep tracking, rethought for Android.**
-
-A modern sleep companion built with Kotlin and Jetpack Compose.
-
-<br/>
-
-<img src="./latest download.svg" alt="Latest Download" />
-<img src="./sourcecode.svg" alt="Source Code" />
-<img src="./m3e small.svg" alt="Material 3 Expressive" />
-<img src="./android 12.svg" alt="Android 12+" />
-
-</div>
-
----
-
-## About
-
-Somnia is an Android sleep-tracking application focused on making sleep information easier to understand.
-
-Built with Kotlin and Jetpack Compose, the project combines a modern Android interface with a clean visual identity inspired by Material 3 Expressive.
-
-The idea behind Somnia is straightforward: give users a simple place to manage their sleep sessions, look back at their sleeping patterns and understand their rest.
+![Somnia Banner](./Main%20Banner.png)
 
 ## Features
 
-<img src="./features.svg" width="100%" alt="Features" />
+![Features](./Features.png)
 
-Somnia is being developed around several core features.
+Somnia is an Android sleep-tracking application designed to help you understand your sleep and build better sleeping habits.
 
-| Sleep sessions | Sleep history |
-|:---:|:---:|
-| Start and stop sleep sessions manually, with a live session duration. | Keep a record of previous sessions and revisit sleeping patterns. |
-| **Sleep insights** | **Personalisation** |
-| View sleep durations through visual summaries and charts. | Adjust the app's appearance with theme options, including dark and AMOLED-friendly styling. |
-
-Additional functionality and improvements are planned as development continues.
-
-*Note: Features are subject to development and may not all be available in the current version.*
+With a focus on simplicity and useful insights, Somnia brings sleep tracking and personal sleep information together in one place.
 
 ## Design
 
-<img src="./design.svg" width="100%" alt="Design" />
+![Design](./Main%20Banner.png)
 
-Somnia follows an Android-first design direction, taking inspiration from Google's Material 3 Expressive design language.
+Somnia is built around **Material 3 Expressive**, taking inspiration from the latest Android design direction.
 
-Some of its design choices include:
+- Material 3 Expressive components and interactions
+- Google Sans Flex Rounded typography
+- Deep Blue colour palette
+- Dynamic light and dark themes
+- Ultra-Dark AMOLED Bedside Mode
+- Expressive animations and adaptive navigation
 
-- Material 3 Expressive components.
-- Google Sans Flex Rounded typography.
-- Material Symbols Rounded icons.
-- Deep blue and dark surface colours.
-- A floating pill-style navigation bar.
-- Carefully considered spacing and component sizing.
-- Smooth transitions and interactive elements.
+Built with Jetpack Compose.
 
-The aim is to create an interface that feels familiar on Android while still giving Somnia its own identity.
+## Getting Started
+
+![Getting Started](./Getting%20Started.png)
+
+1. Clone or download this repository.
+2. Open the project in Android Studio.
+3. Allow Gradle to synchronise.
+4. Connect an Android device or start an emulator.
+5. Build and run the application.
+
+### Requirements
+
+| Requirement | Version |
+|---|---|
+| Android | Android 12 or newer |
+| Minimum SDK | 31 |
+| Build system | Gradle |
+| UI framework | Jetpack Compose |
+| Design system | Material 3 Expressive |
 
 ## Screenshots
 
-<img src="./screenshots.svg" width="100%" alt="Screenshots" />
+![Screenshots](./Screenshots.png)
 
-## Built with
+## Credits
 
-Somnia uses a modern Android development stack.
+![Credits](./Credits.png)
 
-| Technology | Purpose |
-|---|---|
-| Kotlin | Main programming language |
-| Jetpack Compose | UI development |
-| Material 3 Expressive | Design system |
-| Room | Local database |
-| Kotlin Coroutines | Asynchronous operations |
-| Kotlin Flow | Reactive data streams |
-| Navigation Compose | Screen navigation |
-| KSP | Kotlin Symbol Processing |
+Somnia is developed by **Lowestm3e**.
 
-## Project information
+Built using:
 
-| Detail | Value |
-|---|---|
-| Project | Somnia |
-| Package name | `com.lowestm3e.somnia` |
-| Current version | `0.1.12.1` |
-| Minimum Android version | Android 12 (API 31) |
-| Target SDK | 37 |
-| Language | Kotlin |
-| Platform | Android |
+- Kotlin
+- Jetpack Compose
+- Material 3 Expressive
+- Google Sans Flex Rounded
 
-## Development
+Development assistance: ChatGPT and Claude.
 
-Somnia is an ongoing project. Its interface and underlying functionality are continuously being developed and improved.
+## Feedback
 
-Future development may include:
-
-- More detailed sleep insights.
-- Improved session management.
-- Additional visualisations.
-- Further personalisation options.
-- Improvements to performance and stability.
-
-## Source code
-
-<img src="./sourcecode.svg" alt="Source Code" />
-
-Somnia is developed openly on GitHub.
-
-Explore the repository, follow development and take a look at the code behind the application.
-
-[View the Somnia repository](https://github.com/Lowestm3e/Somnia)
-
-## Made with
-
-<img src="./credits.svg" width="100%" alt="Credits" />
-
-Somnia has been developed with assistance from **ChatGPT** and **Claude**.
-
-Both AI tools have contributed to the development process through coding assistance, debugging, design discussions, problem-solving and documentation.
-
-The project direction, implementation decisions and final changes are reviewed throughout development.
-
-## Free to edit
-
-<img src="./freetoedit.svg" alt="Free to Edit" />
-
-You're welcome to explore the project and make modifications in accordance with its licence.
-
-Please review the repository's licence before redistributing or publishing modified versions.
+Found an issue or have a suggestion? Feel free to open an issue in this repository.
 
 ---
 
-<div align="center">
-
-**SOMNIA**
-
-*Made for better rest.*
-
-</div>
+**Somnia** · Made by Lowestm3e
